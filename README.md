@@ -23,10 +23,10 @@ Clone or download the repository. Open Visual Studio 2015 or 2017, build solutio
 Language:				C#
 Contributor:			Bradley Jones, bjones@dogwoodgeo.com
 Organization:			Little Rock Water Reclamation Authority (LRWRA)
-Org Site: 				https://git.lrwu.com/portal
+Org Site: 			https://git.lrwu.com/portal
 Date:					9/20/2018
 ArcGIS Pro:				2.2
-ArcGIS Pro SDK: 		2.2
+ArcGIS Pro SDK: 	2.2
 Visual Studio: 			2017, 2015
 .NET Target Framework:	4.6.1
 ```
