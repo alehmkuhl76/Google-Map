@@ -9,7 +9,7 @@ This tool is also apart of the larger [LRWRA add-in](https://github.com/dogwoodg
 
 Clone or download the repository. Open Visual Studio 2015 or 2017, build solution, launch ArcGIS Pro and check the **Add-Ins** tab.
 
-![1539184525334](C:\Users\Bradley.Jones\AppData\Roaming\Typora\typora-user-images\1539184525334.png)
+![add-in_tab](O:\IS\GIS\Development\dotNET\ArcGISPro\GoogleStreetView\assets\2018-10-10_10-14-54.png)
 
 
 
@@ -37,13 +37,13 @@ Visual Studio:         2017, 2015
 
 4. Activate tool
 
-   ![1539185470405](C:\Users\Bradley.Jones\AppData\Roaming\Typora\typora-user-images\1539185470405.png)
+   ![1539185470405](O:\IS\GIS\Development\dotNET\ArcGISPro\GoogleStreetView\readme_images\1539185470405.png)
 
 5. Click on street location you wish to see Google Street View of.
 
 6. Default browser windows opens with street view (if street view is available for location).
 
-   ![1539185602271](C:\Users\Bradley.Jones\AppData\Roaming\Typora\typora-user-images\1539185602271.png)
+   ![1539185602271](O:\IS\GIS\Development\dotNET\ArcGISPro\GoogleStreetView\readme_images\2018-10-10_9-34-06.png)
 
 **NOTE**: A blank browser window will open if there is no Google Street View available for that location. No *warning* or *error* dialogs will be displayed.
 
